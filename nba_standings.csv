@@ -1,0 +1,31 @@
+Conferencia;Posicao;Time;Situacao;Vitorias;Derrotas;Percentual_Vitorias;Jogos_Atras_Lider;Resultado_Casa;Resultado_Fora;Resultado_Divisao;Resultado_Conferencia;Media_Pontos_Marcados;Media_Pontos_Sofridos;Saldo_Pontos;Sequencia_Atual;Ultimos_10_Jogos;Data_Coleta
+Eastern Conference;1;Detroit Pistons; Melhor campanha;57;21;.731;-;30-9;26-12;10-4;36-12;117.5;109.4;+8.1;W3;8-2;06/04/2026 17:46
+Eastern Conference;2;Boston Celtics;Classificado para Playoffs;53;25;.679;4;27-11;26-14;10-5;34-15;114.6;107.0;+7.6;W3;8-2;06/04/2026 17:46
+Eastern Conference;3;New York Knicks;Classificado para Playoffs;50;28;.641;7;28-9;21-19;12-3;32-16;116.9;110.4;+6.5;W2;7-3;06/04/2026 17:46
+Eastern Conference;4;Cleveland Cavaliers;Classificado para Playoffs;49;29;.628;8;25-14;24-15;11-5;31-18;119.3;115.1;+4.2;W2;8-2;06/04/2026 17:46
+Eastern Conference;5;Atlanta Hawks;Em disputa;45;33;.577;12;23-16;22-17;9-6;26-22;118.6;115.9;+2.7;W4;8-2;06/04/2026 17:46
+Eastern Conference;6;Philadelphia 76ers;Em disputa;43;35;.551;14;22-18;21-17;9-7;25-25;116.2;116.5;-0.3;L1;6-4;06/04/2026 17:46
+Eastern Conference;7;Toronto Raptors;Em disputa;43;35;.551;14;21-17;22-18;4-11;30-18;114.4;112.1;+2.3;L1;4-6;06/04/2026 17:46
+Eastern Conference;8;Charlotte Hornets;Em disputa;43;36;.544;14.5;21-19;22-17;11-5;25-24;116.5;111.3;+5.2;W4;8-2;06/04/2026 17:46
+Eastern Conference;9;Orlando Magic;Em disputa;42;36;.538;15;23-15;18-19;9-8;24-25;115.4;115.3;+0.1;W2;4-6;06/04/2026 17:46
+Eastern Conference;10;Miami Heat;Em disputa;41;37;.526;16;25-15;16-22;8-7;25-23;120.8;118.4;+2.4;W1;3-7;06/04/2026 17:46
+Eastern Conference;-;Milwaukee Bucks;Eliminado dos Playoffs;31;47;.397;26;18-22;13-25;9-6;20-28;110.8;116.8;-6.0;W1;3-7;06/04/2026 17:46
+Eastern Conference;-;Chicago Bulls;Eliminado dos Playoffs;29;49;.372;28;18-22;11-27;4-12;17-31;116.1;121.6;-5.5;L7;1-9;06/04/2026 17:46
+Eastern Conference;-;Brooklyn Nets;Eliminado dos Playoffs;19;59;.244;38;11-28;8-31;3-12;13-34;106.2;115.8;-9.6;W1;2-8;06/04/2026 17:46
+Eastern Conference;-;Indiana Pacers;Eliminado dos Playoffs;18;60;.231;39;11-27;7-33;4-11;14-35;112.5;120.7;-8.2;L2;3-7;06/04/2026 17:46
+Eastern Conference;-;Washington Wizards;Eliminado dos Playoffs;17;61;.218;40;11-27;6-34;2-13;11-37;113.1;124.6;-11.5;L6;1-9;06/04/2026 17:46
+Western Conference;1;Oklahoma City Thunder;Campeao da Divisao;62;16;.795;-;34-6;28-9;12-3;39-9;119.2;107.5;+11.7;W5;9-1;06/04/2026 17:46
+Western Conference;2;San Antonio Spurs;Campeao da Divisao;59;19;.756;3;29-7;29-12;12-3;34-15;119.8;111.5;+8.3;L1;9-1;06/04/2026 17:46
+Western Conference;3;Los Angeles Lakers;Campeao da Divisao;50;28;.641;12;26-12;24-16;8-7;30-18;116.7;115.2;+1.5;L2;7-3;06/04/2026 17:46
+Western Conference;4;Denver Nuggets;Classificado para Playoffs;50;28;.641;12;25-13;25-15;9-5;32-16;121.6;116.8;+4.8;W8;9-1;06/04/2026 17:46
+Western Conference;5;Houston Rockets;Classificado para Playoffs;49;29;.628;13;28-10;21-19;9-6;27-22;114.8;110.0;+4.8;W6;8-2;06/04/2026 17:46
+Western Conference;6;Minnesota Timberwolves;Em disputa;46;32;.590;16;25-15;21-17;9-7;29-21;117.5;114.2;+3.3;L3;5-5;06/04/2026 17:46
+Western Conference;7;Phoenix Suns;Em disputa;43;35;.551;19;24-15;19-20;10-6;27-21;112.9;111.3;+1.6;W1;4-6;06/04/2026 17:46
+Western Conference;8;LA Clippers;Em disputa;40;38;.513;22;21-17;19-21;9-6;23-25;114.0;112.6;+1.4;W1;6-4;06/04/2026 17:46
+Western Conference;9;Portland Trail Blazers;Em disputa;40;38;.513;22;22-17;18-21;7-8;27-21;115.4;115.9;-0.5;W3;8-2;06/04/2026 17:46
+Western Conference;10;Golden State Warriors;Em disputa;36;42;.462;26;21-18;15-24;6-6;23-25;114.8;115.1;-0.3;L4;3-7;06/04/2026 17:46
+Western Conference;-;Memphis Grizzlies;Eliminado dos Playoffs;25;53;.321;37;13-26;11-26;6-9;19-30;114.8;119.7;-4.9;L4;1-9;06/04/2026 17:46
+Western Conference;-;Dallas Mavericks;Eliminado dos Playoffs;25;53;.321;37;15-25;10-27;4-11;14-34;113.8;119.4;-5.6;W1;2-8;06/04/2026 17:46
+Western Conference;-;New Orleans Pelicans;Eliminado dos Playoffs;25;54;.316;37.5;16-24;9-30;7-9;16-33;114.8;119.4;-4.6;L8;2-8;06/04/2026 17:46
+Western Conference;-;Sacramento Kings;Eliminado dos Playoffs;21;58;.266;41.5;14-26;7-32;3-11;13-36;110.9;121.2;-10.3;L1;3-7;06/04/2026 17:46
+Western Conference;-;Utah Jazz;Eliminado dos Playoffs;21;58;.266;41.5;13-27;8-31;1-15;11-38;117.1;125.9;-8.8;L9;1-9;06/04/2026 17:46
