@@ -6,6 +6,7 @@ import psycopg2.extras
 from typing import Optional
 import json
 from decimal import Decimal
+from fastapi.middleware.cors import CORSMiddleware 
 
 DATABASE_URL = os.environ["DATABASE_URL"]
 
