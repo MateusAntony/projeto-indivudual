@@ -19,7 +19,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 def get_conn():
     try:
         return psycopg2.connect(DATABASE_URL, cursor_factory=psycopg2.extras.RealDictCursor)
