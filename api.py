@@ -104,8 +104,8 @@ def get_time(nome: str):
 #classificados por playoffs
 @app.get("/standings/playoff")
 def get_playoff(conferencia: Optional[str]=Query(None)):
-    sql="SELECT * FROM nba_standings WHERE situacao ILIKE %s"
-    params=["%Classificado para Playoffs%"]
+    sql="SELECT * FROM nba_standings WHERE posicao BETWEEN 1 AND 6"
+    params=[]
 
     if conferencia:
         sql += " AND conferencia ILIKE %s"
@@ -138,8 +138,8 @@ def get_eliminados(conferencia: Optional[str]=Query(None)):
 #Em disputa do playin
 @app.get("/standings/playin")
 def get_playin(conferencia: Optional[str]=Query(None)):
-    sql="SELECT * FROM nba_standings WHERE situacao ILIKE %s"
-    params=["%Em disputa%"]
+    sql="SELECT * FROM nba_standings WHERE posicao BETWEEN 7 AND 10"
+    params=[]
 
     if conferencia:
         sql += " AND conferencia ILIKE %s"
